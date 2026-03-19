@@ -1,3 +1,1 @@
-Jeu de carte Memory créer de 0 par DOUZI Anass.
-Inspiré de l'univers Pokemon le but du jeu est simple, trouvé les mêmes cartes et afin d'améliorer l'expérience de jeu, j'ai mis en place plusieur niveau avec différentes difficultés. De plus l'ajout de
-de son (avec possibilité du joueur de les changer) et l'ajout de fond d'écran ajoute une immersion total au jeu et à l'univers. Les scores sont stocké et cela permet de créer un mode 'compétitif'. 
+Jeu de cartes Memory créé de A à Z par DOUZI Anass. Inspiré de l’univers Pokémon, le but du jeu est simple : retrouver les paires de cartes identiques. Afin d’améliorer l’expérience de jeu, plusieurs niveaux de difficulté ont été mis en place. De plus, l’ajout de sons (que le joueur peut personnaliser) ainsi que de différents fonds d’écran renforce l’immersion dans l’univers du jeu. Les scores sont enregistrés, permettant ainsi la mise en place d’un mode compétitif.
